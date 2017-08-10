@@ -7,8 +7,8 @@ Three of my favorite books are:
 - *Welcome to the Monkey House* by Kurt Vonnegut
 - *Persepolis* by Marjane Satrapi
 ### Websites
-[Officicla Site](https://www.python.org/)
-[Python for Everyone](https://www.py4e.com/)
+[Officicla Site](https://www.python.org/)  
+[Python for Everyone](https://www.py4e.com/)  
 ### Editors
 [Atom](https://atom.io/)
 ### Food
